@@ -1,4 +1,11 @@
-h1 {
+h1, h2 {
 
-  font-family: "DM Serif Text", serif;
+  font-family: "PT Serif Caption", serif;
+  
+}
+
+p {
+
+  font-family: "Scope One", serif;
+  
 }

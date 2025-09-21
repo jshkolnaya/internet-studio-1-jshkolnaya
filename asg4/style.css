@@ -13,7 +13,13 @@ p {
 
 table {
   height: 40%;
-  left: 5%;
   width: 40%;
   text-align: left;
+}
+
+
+table, th, th {
+
+  border: 1px solid black;
+  
 }

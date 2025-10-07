@@ -3,3 +3,19 @@
 * {
 	font-family: Arial;
 }
+
+.eagle-lake-regular {
+  font-family: "Eagle Lake", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.macondo-regular {
+  font-family: "Macondo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Eagle Lake", serif;
+}

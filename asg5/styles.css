@@ -14,7 +14,8 @@
 
 body {
   padding-top: 50px
-  background: url(img/seamlesspattern.jpg) repeat-x;
+  background: url(img/seamlesspattern.jpg);
+  background-repeat: repeat;
   margin: 0 auto;
   max-width: 800px;
   width: 60%;

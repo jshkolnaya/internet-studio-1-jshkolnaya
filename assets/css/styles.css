@@ -24,12 +24,14 @@ body {
 }
 
 h1 {
-  padding-top: 15px;
+  padding-top: 20px;
   font-family: "Eagle Lake", serif;
+  font-size: 1.25em;
   color: #618f4d;
 }
 
 h2, p {
   font-family: "Macondo", cursive;
+  font-size: 1.25em;
   color: #618f4d;
 }

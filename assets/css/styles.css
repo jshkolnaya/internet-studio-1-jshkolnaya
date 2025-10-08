@@ -26,10 +26,14 @@ body {
 h1 {
   padding-top: 20px;
   font-family: "Eagle Lake", serif;
-  color: #618f4d;
+  color: #507840;
 }
 
 h2, p {
   font-family: "Macondo", cursive;
+  color: #507840;
+}
+
+p {
   color: #618f4d;
 }

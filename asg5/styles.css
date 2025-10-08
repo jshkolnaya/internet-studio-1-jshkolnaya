@@ -13,7 +13,7 @@
 
 
 body {
-  background-image: url('asg5/img/seamlesspattern.jpg');
+  background-image: url(../img/seamlesspattern.jpg);
   background-repeat: repeat;
   background-size: 398px 398px;
   margin: 0 auto;

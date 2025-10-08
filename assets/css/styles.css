@@ -9,7 +9,6 @@ body {
   padding-top: 75px;
   background: #fcedcf url(../img/pattern.jpg) repeat-x;
   max-width: 800px;
-  margin: 0 auto;
 }
 
 .eagle-lake-regular {
@@ -25,7 +24,7 @@ body {
 }
 
 h1 {
-  padding-top: 10px;
+  padding-top: 15px;
   font-family: "Eagle Lake", serif;
   color: #82c470;
 }

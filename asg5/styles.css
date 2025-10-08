@@ -15,7 +15,7 @@
 body {
   background-image: url('../img/seamlesspattern.jpg');
   background-repeat: repeat;
-  max-width: 800px;
+  background-size: 398px 398px;
   margin: 0 auto;
   width: 60%;
 }

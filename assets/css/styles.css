@@ -4,6 +4,14 @@
 	background-color: #fcedcf;
 }
 
+
+body {
+  padding-top: 115px;
+  background: #cde6ff url(img/pattern.jpg) repeat-x;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 .eagle-lake-regular {
   font-family: "Eagle Lake", serif;
   font-weight: 400;

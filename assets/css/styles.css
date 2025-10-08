@@ -9,11 +9,7 @@ body {
   padding-top: 75px;
   background: #fcedcf url(../img/pattern.jpg) repeat-x;
   max-width: 800px;
-}
-
-.assignments {
-	padding: 10px;
-	background: #e6d9cb;
+  margin: 0 auto;
 }
 
 

@@ -13,7 +13,8 @@
 
 
 body {
-  background: url(img/seamlesspattern.jpg) repeat-x;
+  padding-top: 50px
+  background: url(img/seamlesspattern.jpg) repeat-x repeat-y;
   margin: 0 auto;
   max-width: 800px;
   width: 60%;

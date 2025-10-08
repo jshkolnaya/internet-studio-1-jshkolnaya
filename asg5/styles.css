@@ -13,7 +13,7 @@
 
 
 body {
-  background: url(../img/seamlesspattern.jpg);
+  background: url("../img/seamlesspattern.jpg");
   margin: 0 auto;
   width: 60%;
 }

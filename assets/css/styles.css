@@ -1,13 +1,13 @@
 /* styles.css */
-
+/*
 * {
 	background-color: #fcedcf;
 }
-
+*/
 
 body {
   padding-top: 115px;
-  background: url(assets/img/pattern.jpg) repeat-x;
+  background: #fcedcf url(assets/img/pattern.jpg) repeat-x;
   max-width: 800px;
   margin: 0 auto;
 }

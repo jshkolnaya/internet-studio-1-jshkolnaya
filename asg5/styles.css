@@ -12,6 +12,11 @@
 }
 
 
+* {
+  background: url(../img/seamlesspattern.jpg) repeat-x;
+}
+
+
 
 h1, h2 {
   font-family: "MonteCarlo";

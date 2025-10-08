@@ -67,3 +67,7 @@ h1, h2, h3 {
 p, ul {
   font-family: 'Aleo';
 }
+
+body {
+  margin-right: 500px;
+}

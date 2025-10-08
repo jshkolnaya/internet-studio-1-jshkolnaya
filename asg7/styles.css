@@ -42,10 +42,28 @@
   src: url('fonts/alan-sans-v1-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+/* aleo-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Aleo';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/aleo-v16-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* aboreto-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Aboreto';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/aboreto-v2-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
 h1, h2, h3 {
-  font-family: 'Abril Fatface';
+  font-family: 'Aboreto';
 }
 
 p, ul {
-  font-family: 'Alan Sans';
+  font-family: 'Aleo';
 }

@@ -11,6 +11,12 @@ body {
   max-width: 800px;
 }
 
+.assignments {
+	padding: 15px;
+	background: #d6c0a8;
+}
+
+
 .eagle-lake-regular {
   font-family: "Eagle Lake", serif;
   font-weight: 400;

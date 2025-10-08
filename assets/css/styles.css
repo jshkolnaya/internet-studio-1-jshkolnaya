@@ -6,9 +6,9 @@
 */
 
 body {
-  padding-top: 70px;
+  padding-top: 75px;
   background: #fcedcf url(../img/pattern.jpg) repeat-x;
-  max-width: 900px;
+  max-width: 800px;
   margin: 0 auto;
 }
 
@@ -25,6 +25,7 @@ body {
 }
 
 h1 {
+  padding-top: 10px;
   font-family: "Eagle Lake", serif;
   color: #82c470;
 }

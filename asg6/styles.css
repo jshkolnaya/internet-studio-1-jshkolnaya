@@ -19,12 +19,13 @@ html {
   background-repeat: repeat;
 }
 
-
+/*setting the font for my headings and centering them on the page*/
 h1, h2, h3 {
   font-family: "Montserrat Alternates";
   text-align: center;
 }
 
+/*changing font sizes and colors for various text*/
 h1 {
   font-size: 45px;
   margin: 40px 0px;
@@ -42,6 +43,7 @@ h3 {
   color: #cc720a;
 }
 
+/*also adding some line spacing and a background color for text to make it more easily readable*/
 p {
   font-family: "Anaheim";
   font-size: 1.3em;
@@ -51,12 +53,14 @@ p {
   background-color: rgba(215, 229, 240, .5);
 }
 
+/*centering body on the page*/
 body {
   width: 65%;
   max-width: 800px;
   margin: 0 auto;
 }
 
+/*added background color to my link crediting the background pattern artist, so text is more clearly visible*/
 a {
   font-family: "Anaheim";
   margin-top: 80px;
@@ -64,6 +68,7 @@ a {
   background-color: rgba(250, 183, 105, .6);
 }
 
+/*floating my image to the right of my overview summary paragraph*/
 img {
   float: right;
 }

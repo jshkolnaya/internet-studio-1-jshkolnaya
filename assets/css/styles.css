@@ -50,6 +50,7 @@ aside {
   padding: 3px 5px;
   background-color: rgba(117, 138, 61, .3);
   border: 3px solid #758a3d;
+  box-shadow: 3px 3px 6px #888888;
 }
 
 div {

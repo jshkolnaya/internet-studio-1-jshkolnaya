@@ -36,6 +36,8 @@ p {
 }
 
 body {
+  background: url(img/colourloverspattern.png);
+  background-repeat: repeat;
   width: 65%;
   max-width: 800px;
   margin: 0 auto;

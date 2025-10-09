@@ -26,19 +26,23 @@ h1, h2, h3 {
 h1 {
   font-size: 45px;
   margin: 40px 0px;
+  color: #ad6818;
 }
 
 h2 {
   font-size: 2em;
+  color: #c27317;
 }
 
 h3 {
   font-size: 1.5em;
+  color: #cc720a;
 }
 
 p {
   font-family: "Anaheim";
   font-size: 1.3em;
+  color: #a65a02;
 }
 
 body {

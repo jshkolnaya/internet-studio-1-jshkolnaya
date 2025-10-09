@@ -42,3 +42,9 @@ p {
 img {
   box-shadow: 5px 5px 10px #888888;
 }
+
+aside {
+  margin: 15px 5px;
+  max-width: 50px;
+  float: right;
+}

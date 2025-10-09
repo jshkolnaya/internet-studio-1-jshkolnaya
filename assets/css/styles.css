@@ -27,6 +27,7 @@ h1 {
   padding-top: 20px;
   font-family: "Eagle Lake", serif;
   color: #507840;
+  text-shadow: 3px 3px 6px #888888;
 }
 
 h2, p, li {

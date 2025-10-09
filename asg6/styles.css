@@ -25,13 +25,15 @@ h1, h2, h3 {
   text-align: center;
 }
 
-/*changing font sizes and colors for various text*/
+/*changing font sizes and colors for various text, adding a border to the main heading and such*/
 h1 {
   font-size: 45px;
   margin: 40px 0px;
   color: #db7702;
   letter-spacing: 2px;
   border: 5px dotted #db7702;
+  padding: 5px;
+  background-color: rgba(215, 229, 240, .4);
 }
 
 h2 {

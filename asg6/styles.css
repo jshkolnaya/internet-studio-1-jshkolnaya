@@ -43,6 +43,8 @@ p {
   font-family: "Anaheim";
   font-size: 1.3em;
   color: #a65a02;
+  padding: 5px;
+  background-color: rgba(215, 229, 240, .5);
 }
 
 body {
@@ -53,8 +55,8 @@ body {
 
 a {
   font-family: "Anaheim";
-  padding: 5px;
   margin-top: 40px;
+  padding: 5px;
   background-color: rgba(215, 229, 240, .5);
 }
 

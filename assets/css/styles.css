@@ -29,7 +29,7 @@ h1 {
   color: #507840;
 }
 
-h2, p {
+h2, p, li {
   font-family: "Macondo", cursive;
   color: #507840;
 }
@@ -37,3 +37,4 @@ h2, p {
 p {
   color: #618f4d;
 }
+

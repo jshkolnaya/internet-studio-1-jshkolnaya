@@ -47,6 +47,8 @@ aside {
   margin: 15px 100px 15px 5px;
   max-width: 150px;
   float: right;
+  background-color: rgba(139, 199, 88, .4);
+  border: 3px solid #8bc758;
 }
 
 div {

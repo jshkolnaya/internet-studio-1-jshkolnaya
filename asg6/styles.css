@@ -28,7 +28,7 @@ h1, h2, h3 {
 /*changing font sizes and colors for various text, adding a border to the main heading and such*/
 h1 {
   font-size: 45px;
-  margin: 40px 0px;
+  margin: 50px 20px;
   color: #f78705;
   letter-spacing: 2px;
   border: 5px dotted #db7702;

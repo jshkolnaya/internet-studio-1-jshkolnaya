@@ -40,12 +40,14 @@ h2 {
   font-size: 2em;
   color: #c27317;
   border: 3px solid #db7702;
+  margin: 0 auto;
 }
 
 h3 {
   font-size: 1.5em;
   color: #cc720a;
   border: 3px solid #db7702;
+  margin: 0 auto
 }
 
 /*also adding some line spacing and a background color for text to make it more easily readable*/

@@ -1,5 +1,4 @@
-
-
+/* here are my two google fonts that i used*/
 .montserrat-alternates-regular {
   font-family: "Montserrat Alternates", sans-serif;
   font-weight: 400;
@@ -14,10 +13,12 @@
 }
 
 
+/*included background pattern from colourlovers*/
 html {
   background: url(images/colourloverspattern.png);
   background-repeat: repeat;
 }
+
 
 h1, h2, h3 {
   font-family: "Montserrat Alternates";
@@ -61,7 +62,6 @@ a {
   margin-top: 40px;
   padding: 5px;
   background-color: rgba(250, 183, 105, .6);
-  text-align: center;
 }
 
 img {

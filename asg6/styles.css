@@ -14,9 +14,27 @@
 }
 
 h1, h2, h3 {
-      font-family: "Montserrat Alternates";
+  font-family: "Montserrat Alternates";
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 1.75em;
+}
+
+h3 {
+  font-size: 1.5em;
 }
 
 p {
-      font-family: "Anaheim";
+  font-family: "Anaheim";
+  font-size: 1.3em;
 }
+
+body {
+  width: 65%;
+}
+

@@ -68,3 +68,7 @@ form {
   color: #662251;
   border: 3px solid rgb(255, 255, 240);
 }
+
+img {
+  margin: 5px;
+}

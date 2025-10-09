@@ -34,6 +34,7 @@ h1 {
   border: 5px solid #db7702;
   padding: 5px;
   background-color: rgba(215, 229, 240, .7);
+  text-shadow: 5px 5px 10px #888888;
 }
 
 h2 {

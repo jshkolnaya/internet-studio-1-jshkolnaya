@@ -75,6 +75,7 @@ a {
   margin: 50px 0px;
   padding: 5px;
   background-color: rgba(250, 183, 105, .6);
+  float: right;
 }
 
 /*floating my image to the right of my overview summary paragraph*/

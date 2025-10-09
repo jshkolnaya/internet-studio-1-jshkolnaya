@@ -70,7 +70,7 @@ body {
 /*added background color to my link crediting the background pattern artist, so text is more clearly visible*/
 a {
   font-family: "Anaheim";
-  margin: 50px 200px;
+  margin: 50px 0px;
   padding: 5px;
   background-color: rgba(250, 183, 105, .6);
 }

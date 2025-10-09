@@ -80,6 +80,7 @@ a {
 
 /*floating my image to the right of my overview summary paragraph*/
 img {
+  margin: 5px;
   float: right;
 }
 

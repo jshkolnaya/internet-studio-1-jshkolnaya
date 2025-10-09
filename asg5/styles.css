@@ -13,7 +13,7 @@
 
 
 body {
-  background: rgba(255, 255, 240, .3) url(img/seamlesspattern.jpg);
+  background: url(img/seamlesspattern.jpg);
   background-repeat: repeat;
   margin: 0 auto;
   max-width: 800px;

@@ -39,11 +39,13 @@ h1 {
 h2 {
   font-size: 2em;
   color: #c27317;
+  border: 3px solid #db7702;
 }
 
 h3 {
   font-size: 1.5em;
   color: #cc720a;
+  border: 3px solid #db7702;
 }
 
 /*also adding some line spacing and a background color for text to make it more easily readable*/

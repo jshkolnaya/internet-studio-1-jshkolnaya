@@ -41,7 +41,7 @@ h2 {
   color: #c27317;
   margin: 20px 300px;
   padding: 3px;
-  border: 3px dashed #db7702;
+  border: 3px dotted #db7702;
   background-color: rgba(215, 229, 240, .2);
 }
 
@@ -50,7 +50,7 @@ h3 {
   color: #cc720a;
   margin: 20px 300px;
   padding: 3px;
-  border: 3px dotted #db7702;
+  border: 3px dashed #db7702;
   background-color: rgba(215, 229, 240, .2);
 }
 

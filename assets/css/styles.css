@@ -48,3 +48,7 @@ aside {
   max-width: 150px;
   float: right;
 }
+
+div {
+  margin: 20px;
+}

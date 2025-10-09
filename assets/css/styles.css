@@ -47,7 +47,7 @@ aside {
   margin: 15px 100px 15px 5px;
   max-width: 160px;
   float: right;
-  padding: 3px;
+  padding: 3px 5px;
   background-color: rgba(117, 138, 61, .3);
   border: 3px solid #758a3d;
   box-shadow: 3px 3px 6px #888888;

@@ -57,6 +57,10 @@ aside {
   box-shadow: 3px 3px 6px #888888;
 }
 
-div {
-  margin: 30px 0px;
-}
+
+/*
+  padding: 3px 4px;
+  background-color: rgba(144, 179, 123, .3);
+  border: 3px solid #90b37b;
+  box-shadow: 3px 3px 6px #888888;
+*/

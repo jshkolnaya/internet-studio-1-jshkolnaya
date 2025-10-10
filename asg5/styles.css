@@ -12,9 +12,12 @@
 }
 
 
-body {
+html {
   background: url(img/seamlesspattern.jpg);
   background-repeat: repeat;
+}
+
+body {
   margin: 0 auto;
   max-width: 800px;
   width: 50%;

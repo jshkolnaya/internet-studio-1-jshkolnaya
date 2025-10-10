@@ -46,7 +46,7 @@ p {
 img {
   padding: 3px;
   background-color: #587348;
-  border: 2px solid #90b579;
+  border: 1px dotted #90b579;
   box-shadow: 5px 5px 10px #888888;
 }
 

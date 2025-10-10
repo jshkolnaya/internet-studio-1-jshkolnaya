@@ -44,9 +44,9 @@ p {
 }
 
 img {
-  padding: 4px;
-  background-color: rgba(88, 115, 72, .3);
-  border: 2px solid #587348;
+  padding: 3px;
+  background-color: #587348;
+  border: 2px solid rgba(88, 115, 72, .3);
   box-shadow: 5px 5px 10px #888888;
 }
 

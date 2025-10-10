@@ -70,7 +70,7 @@ p {
 body {
   width: 65%;
   max-width: 800px;
-  margin: 0 auto;
+  margin: 20px auto;
   padding: 5px;
   background-color: rgba(215, 229, 240, .3);
 }

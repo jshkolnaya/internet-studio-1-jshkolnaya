@@ -25,6 +25,10 @@ h1, h2, h3 {
   font-family: 'Aboreto';
 }
 
+h2 {
+  border-bottom: 2px solid black;
+}
+
 p, ul {
   font-family: 'Aleo';
 }

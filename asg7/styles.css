@@ -32,7 +32,7 @@ h1, h2, h3 {
 h1 {
   font-size: 3.5em;
   color: #edd155;
-  text-shadow: 5px 5px 10px #888888;
+  text-shadow: 3px 3px 6px #888888;
 }
 
 h2 {

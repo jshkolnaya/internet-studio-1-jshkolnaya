@@ -45,11 +45,12 @@ aside {
 
 figure {
   width: 300px;
-  height: 300px;
+  height: 280px;
   margin: 10px;
   background-color: #CAE9F5;
   padding: 15px;
-  box-shadow: 5px 5px 10px rgba(0,0,0,.5);
+  /*box-shadow: 5px 5px 10px rgba(0,0,0,.5);*/
+  box-shadow: 2px 2px 5px pink, -2px -2px 5px blue;
 }
 
 figcaption {

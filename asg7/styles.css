@@ -38,6 +38,10 @@ p, ul {
   font-family: 'Aleo';
 }
 
+p {
+  margin: 5px 10px 15px 10px;
+}
+
 body {
   margin-right: 450px;
 }

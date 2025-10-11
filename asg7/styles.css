@@ -30,6 +30,10 @@ h2 {
   overflow: hidden;
 }
 
+h3 {
+  color: #2a87a3;
+}
+
 p, ul {
   font-family: 'Aleo';
 }

@@ -27,7 +27,8 @@ h1, h2, h3 {
 
 h1 {
   font-size: 3.5em;
-  font-weight: bold;
+  color: #edd155;
+  text-shadow: 5px 5px 10px #888888;
 }
 
 h2 {

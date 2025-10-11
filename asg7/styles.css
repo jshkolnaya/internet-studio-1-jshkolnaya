@@ -34,7 +34,8 @@ body {
 }
 
 aside {
-  width: 30%;
+  width: 220px;
+  height: 230px;
   float: right;
   margin: 10px;
   background-color: #CAE9F5;
@@ -44,7 +45,7 @@ aside {
 
 figure {
   width: 300px;
-  height: 230px;
+  height: 250px;
   margin: 10px;
   background-color: #CAE9F5;
   padding: 10px 15px;

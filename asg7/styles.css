@@ -25,6 +25,10 @@ h1, h2, h3 {
   font-family: 'Aboreto';
 }
 
+h1 {
+  font-size: 5em;
+}
+
 h2 {
   border-bottom: 2px solid #edd155;
   overflow: hidden;
@@ -43,7 +47,7 @@ p {
 }
 
 body {
-  margin-right: 450px;
+  margin-right: 400px;
 }
 
 aside {

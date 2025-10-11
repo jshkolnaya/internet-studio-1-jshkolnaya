@@ -43,7 +43,8 @@ aside {
 }
 
 figure {
-  width: 30%;
+  width: 300px;
+  height: 230px;
   margin: 10px;
   background-color: #CAE9F5;
   padding: 10px 15px;

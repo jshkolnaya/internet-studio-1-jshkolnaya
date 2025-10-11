@@ -27,6 +27,7 @@ h1, h2, h3 {
 
 h2 {
   border-bottom: 2px solid black;
+  overflow: hidden;
 }
 
 p, ul {

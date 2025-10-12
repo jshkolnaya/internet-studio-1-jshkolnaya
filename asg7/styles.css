@@ -35,7 +35,7 @@ h1, h2, h3 {
 h1 {
   font-size: 3.5em;
   color: #edd155;
-  text-shadow: 8px 8px 8px rgb(63, 87, 99);
+  text-shadow: 6px 6px 8px #324752;
   margin-left: 10px;
 }
 

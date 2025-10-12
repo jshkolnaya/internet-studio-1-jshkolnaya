@@ -17,8 +17,11 @@
   src: url('fonts/aboreto-v2-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+
+/*#f2fbfc*/
+
 html {
-  background-image: linear-gradient(#f2fbfc, #fffff0, #ffffde, #fbfcd7);
+  background-image: linear-gradient(#fffff0, #ffffde, #fbfcd7, #f2fbfc);
 }
 
 * {

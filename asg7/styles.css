@@ -57,7 +57,7 @@ body {
 }
 
 aside {
-  width: 240px;
+  width: 250px;
   height: 480px;
   float: right;
   margin: 10px;
@@ -86,6 +86,6 @@ a {
 }
 
 img {
-  padding: 0 5px;
+  padding: 0 10px;
 }
 

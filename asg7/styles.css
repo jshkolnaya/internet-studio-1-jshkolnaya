@@ -21,6 +21,10 @@ html {
   background-color: #f2fbfc;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 h1, h2, h3 {
   font-family: 'Aboreto';
 }

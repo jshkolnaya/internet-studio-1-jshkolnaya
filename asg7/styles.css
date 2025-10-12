@@ -18,7 +18,7 @@
 }
 
 html {
-  background-image: linear-gradient(#f2fbfc, #fffff0, #fbfcd7);
+  background-image: linear-gradient(to top, #f2fbfc, #fffff0, #fbfcd7);
 }
 
 * {

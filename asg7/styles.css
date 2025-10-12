@@ -53,7 +53,6 @@ p {
 }
 
 body {
-  margin-left: 10px;
   margin-right: 300px;
 }
 
@@ -91,5 +90,6 @@ img {
 }
 
 section {
+  margin-left: 10px;
   margin-bottom: 20px;
 }

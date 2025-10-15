@@ -21,11 +21,14 @@ html {
   background: url(images/asg7bg.jpg);
 }
 
+body {
+  width: 60%;
+}
+
 h1, h2, h3 {
   font-family: 'Amarante';
 }
 
 p {
   font-family: 'Amethysta';
-  background: #98c1d6;
 }

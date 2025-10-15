@@ -30,15 +30,16 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:
+  font-size: 4.5em;
+  text-shadow: 3px 3px 6px rgb(255,255,255);
 }
 
 h2 {
-  font-size:
+  font-size: 3.1em;
 }
 
 h3 {
-  font-size:
+  font-size: 2.5em;
 }
 
 p {

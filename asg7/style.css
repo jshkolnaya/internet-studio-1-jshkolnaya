@@ -31,6 +31,7 @@ h1, h2, h3 {
 
 p {
   font-family: 'Amethysta';
+  line-height: 1.3;
   background: rgba(152, 193, 214, 0.6);
   padding: 5px;
 }

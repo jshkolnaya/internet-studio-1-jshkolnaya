@@ -1,3 +1,4 @@
+/*my fonts*/
 
 /* amarante-regular - latin */
 @font-face {
@@ -17,19 +18,23 @@
   src: url('fonts/amethysta-v17-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+/*setting background image*/
 html {
   background: url(images/asg7bg.jpg);
 }
 
+/*changing body dimensions*/
 body {
   width: 65%;
-  margin-left: 10px;
+  margin-left: 15px;
 }
 
 h1, h2, h3 {
   font-family: 'Amarante';
 }
 
+
+/*changing styles and adding text shadows colored to make the headings appear to glow slightly*/
 h1 {
   color: white;
   font-size: 4.1em;
@@ -48,6 +53,7 @@ h3 {
   text-shadow: 0px 0px 3px #8fbeff;
 }
 
+/*changing leading and adding background color to paragraph text so it's more readable*/
 p {
   font-family: 'Amethysta';
   color: #d4f0ff;
@@ -55,6 +61,7 @@ p {
   background: rgba(152, 193, 214, 0.6);
   padding: 5px;
   box-shadow: 3px 3px 6px rgb(255,255,255);
+  margin-bottom: 15px;
 }
 
 figcaption {

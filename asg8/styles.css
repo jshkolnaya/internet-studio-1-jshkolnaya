@@ -65,4 +65,20 @@ small,
 .text-small {
   font-size: 0.56em;
 }
+
+html {
+  background-color: rgb(253,252,220);
+}
+
+h1 {
+  color: rgb(72,159,181);
+}
+
+h3 {
+  color: rgb(165,102,139);
+}
+
+p {
+  color: rgb(41,51,92);
+}
               

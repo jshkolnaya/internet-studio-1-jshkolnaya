@@ -87,5 +87,6 @@ p {
   color: rgb(64,73,133);
   padding: 5px;
   background-image: linear-gradient(to bottom, rgb(242, 240, 252), rgb(236, 232, 252), rgb(220,214,247));
+  box-shadow: 3px 3px 5px rgb(139, 128, 194);
 }
 

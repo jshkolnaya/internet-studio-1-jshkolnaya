@@ -1,1 +1,15 @@
 
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 20px;
+}
+
+nav ul li {
+    background-color: dodgerblue;
+    padding: 5px;
+    border-radius: 5px;
+}
+              

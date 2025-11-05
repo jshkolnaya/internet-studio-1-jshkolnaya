@@ -21,7 +21,7 @@
 h1, h2, h3, h4 {
   font-family: 'Prompt';
 }
- p, footer, a, li {
+ p, footer, a, li, label {
    font-family: 'Manrope';
  }
 
@@ -35,7 +35,7 @@ html {
 	background-color: #0e0c45;
 }
 
-h1, h2, h3, p, li, footer {
+h1, h2, h3, p, li, footer, label {
 	color: #e3d2fc;
 }
 

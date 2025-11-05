@@ -45,8 +45,8 @@ nav a {
     border-radius: 5px;
 }
 
-div {
-	width: max-width;
+body {
+	position: relative;
 }
 
 .anim {

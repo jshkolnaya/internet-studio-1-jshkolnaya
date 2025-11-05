@@ -51,21 +51,16 @@ nav a {
   background-image: url(images/northernlights.png);
   background-size: cover;
   background-repeat: no-repeat;
-  animation: moveBackground 5s;
+  animation: moveBackground 5s linear infinite alternate;
 }
 
 @keyframes moveBackground {
   from {
-		transform: rotate(0) scale(.5);
-		left: 120%;
-	}
-	50% {
-		transform: rotate(-720deg) scale(.5);
-		left: 0;
-	}
-	to {
-		transform: rotate(0) scale(1);
-	}
+    background-position: 0% 0%; 
+  }
+  to {
+    background-position: 100% 0%; 
+  }
 }
 
 /*

@@ -34,7 +34,7 @@ html {
 nav ul {
     list-style: none;
     display: flex;
-    justify-content: left;
+    justify-content: center;
     flex-direction: row;
     gap: 15px;
 }

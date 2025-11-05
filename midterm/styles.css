@@ -48,7 +48,7 @@ nav a {
 
 .anim {
   width: auto;
-  height: autto;
+  height: auto;
   background-image: url(images/northernlights.png);
   background-repeat: no-repeat;
   animation: animate 5s;

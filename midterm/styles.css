@@ -49,7 +49,7 @@ nav a {
 .anim {
   width: auto;
   height: auto;
-  background-image: url(images/northernlights.png);
+  background-image: url('images/northernlights.png');
   background-repeat: no-repeat;
   animation: animate 5s;
 }

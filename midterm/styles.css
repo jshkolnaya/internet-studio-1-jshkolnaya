@@ -45,11 +45,26 @@ nav a {
     border-radius: 5px;
 }
 
-anim {
-	float: right;
+.anim {
+  width: 1000px;
+  height: autto;
+  background-image: url('northernlights.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  animation: moveBackground 5s;
 }
 
-@keyframes background-image {
+@keyframes moveBackground {
+  from {
+    background-position: 0% 0%; 
+  }
+  to {
+    background-position: 100% 0%; 
+  }
+}
+
+/*
+@keyframes anim {
 	from {
 		transform: rotate(0) scale(.5);
 		left: 120%;
@@ -63,6 +78,7 @@ anim {
 	}
 }
 
-.background-image {
-	animation: background-image 3s;
+.anim {
+	animation: anim 3s;
 }
+*/

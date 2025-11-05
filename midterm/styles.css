@@ -25,11 +25,12 @@ h1, h2, h3, h4 {
    font-family: 'Manrope';
  }
 
+/*
 html {
 	background-color: #151263;
 	background-image: url(images/northernlights.png) no-repeat;
 }
-
+*/
 
 nav ul {
     list-style: none;

@@ -35,8 +35,12 @@ html {
 	background-color: #0e0c45;
 }
 
-h1, h2, h3, p, li, footer, label, a {
+h1, h2, h3, p, li, footer, label {
 	color: #e3d2fc;
+}
+
+a {
+	color: rgb(186, 255, 227);
 }
 
 body {

@@ -54,7 +54,8 @@ nav a {
   animation: animate 5s;
   position: absolute;
   z-index: 100;
-  left: 50;
+  top: 0;
+  right: 0;
 }
 
 

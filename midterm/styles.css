@@ -40,4 +40,21 @@ nav a {
     padding: 5px;
     border-radius: 5px;
 }
-              
+
+@keyframes anim {
+	from {
+		transform: rotate(0) scale(.5);
+		left: 120%;
+	}
+	50% {
+		transform: rotate(-720deg) scale(.5);
+		left: 0;
+	}
+	to {
+		transform: rotate(0) scale(1);
+	}
+}
+
+.anim {
+	animation: anim 3s;
+}

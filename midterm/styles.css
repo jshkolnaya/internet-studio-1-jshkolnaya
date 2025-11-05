@@ -34,6 +34,10 @@ html {
 	background-color: #151263;
 }
 
+h1, p {
+	color: #e3d2fc;
+}
+
 
 nav ul {
     list-style: none;

@@ -40,7 +40,12 @@ h1, h2, h3, p, li, footer, label {
 }
 
 a {
-	color: rgb(186, 255, 227);
+	color: #baffe3;
+}
+
+img {
+	padding: 5px;
+	background-color: #baffe3;
 }
 
 body {

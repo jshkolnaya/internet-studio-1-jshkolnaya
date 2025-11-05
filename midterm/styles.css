@@ -46,22 +46,21 @@ nav a {
 }
 
 .anim {
-  width: 1000px;
+  width: auto;
   height: autto;
   background-image: url(images/northernlights.png);
-  background-size: cover;
   background-repeat: no-repeat;
-  animation: moveBackground 5s linear infinite alternate;
+  animation: animate 5s;
 }
 
-@keyframes moveBackground {
-  from {
-    background-position: 0% 0%; 
-  }
-  to {
-    background-position: 100% 0%; 
-  }
-}
+@keyframes animate {
+   from {
+            opacity: 0;
+          }
+          to {
+            opacity: 1;
+          }
+        }
 
 /*
 @keyframes anim {

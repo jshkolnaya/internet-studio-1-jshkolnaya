@@ -81,7 +81,7 @@ nav {
    from {
        opacity: 0;
 	   right: 120%;
-	   transform: scale(2.5);
+	   transform: scale(3);
           }
           to {
             opacity: 1;

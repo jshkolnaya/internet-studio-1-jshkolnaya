@@ -25,6 +25,10 @@ h1, h2, h3, h4 {
    font-family: 'Manrope';
  }
 
+footer {
+	margin-top: 200px;
+}
+
 
 html {
 	background-color: #151263;

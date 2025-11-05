@@ -35,7 +35,7 @@ nav ul {
     gap: 20px;
 }
 
-nav ul li {
+nav a {
     background-color: dodgerblue;
     padding: 5px;
     border-radius: 5px;

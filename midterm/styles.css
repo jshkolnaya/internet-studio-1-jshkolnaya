@@ -62,7 +62,7 @@ nav {
 
 .anim {
   width: 962px;
-  height: 374px;
+  height: auto;
   background-image: url('images/northernlights.png');
   background-size: auto;
   background-repeat: no-repeat;

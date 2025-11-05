@@ -44,7 +44,8 @@ nav ul {
 }
 
 nav a {
-    background-color: dodgerblue;
+	color: blue;
+    background-color: white;
     padding: 5px;
     border-radius: 5px;
 }

@@ -50,6 +50,9 @@ nav a {
     border-radius: 5px;
 }
 
+nav {
+	z-index: 100;
+}
 
 .anim {
   width: 962px;

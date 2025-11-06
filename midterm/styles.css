@@ -21,7 +21,7 @@
 h1, h2, h3 {
   font-family: 'Prompt';
 }
- p, footer, a, li, label {
+ p, footer, a, li, label, input {
    font-family: 'Manrope';
  }
 

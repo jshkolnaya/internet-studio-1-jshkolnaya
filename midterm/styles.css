@@ -108,11 +108,12 @@ nav {
 
 
 .comments input[type="text"] {
-    width: 50%;
+    width: 35%;
 	height: 50px;
     }
 
-input {
+input[type="text"] {
 	margin-top: 10px;
+	width: 35%;
 }
 

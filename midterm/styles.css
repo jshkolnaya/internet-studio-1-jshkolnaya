@@ -50,6 +50,7 @@ img {
 
 body {
 	max-width: 900px;
+	padding: 10px;
 }
 
 nav ul {

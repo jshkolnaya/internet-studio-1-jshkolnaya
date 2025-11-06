@@ -27,7 +27,8 @@ h1, h2, h3, h4 {
 
 footer {
 	margin-top: 200px;
-	border-top: 3px solid #baffe3;
+	padding-top: 5px;
+	border-top: 2px solid #baffe3;
 }
 
 /* alternate bg colors #151263 #0e0c45 */

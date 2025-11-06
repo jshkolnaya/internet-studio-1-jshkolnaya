@@ -18,7 +18,7 @@
 }
 
 
-h1, h2, h3, h4 {
+h1, h2, h3 {
   font-family: 'Prompt';
 }
  p, footer, a, li, label {
@@ -39,6 +39,10 @@ html {
 
 h1, h2, h3, p, li, footer, label {
 	color: #e3d2fc;
+}
+
+h1, h2, h3 {
+	margin-top: 20px;
 }
 
 a {

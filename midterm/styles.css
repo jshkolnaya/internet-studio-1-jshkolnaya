@@ -118,3 +118,7 @@ input[type="text"] {
 	background-color: #e1faef;
 }
 
+input[type="submit"] {
+	background-color: #a2fad4;
+}
+

@@ -101,7 +101,7 @@ a {
 img {
 	padding: 5px;
 	background-color: #baffe3;
-	box-shadow: 3px 3px 6px rgba(15, 255, 115, .8);
+	box-shadow: 5px 5px 10px rgba(15, 255, 115, .8);
 }
 
 body {

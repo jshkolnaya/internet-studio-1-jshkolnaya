@@ -69,7 +69,9 @@ small,
 
 h1, h2, h3 {
   font-family: 'Prompt';
-	text-shadow: 3px 3px 6px rgba(175, 36, 255, .8);
+	text-shadow: 4px 4px 8px rgba(189, 63, 252, .8);
+	margin-top: 30px;
+	
 }
  p, footer, a, li, label, input {
    font-family: 'Manrope';
@@ -89,10 +91,6 @@ html {
 
 h1, h2, h3, p, li, footer, label {
 	color: #e3d2fc;
-}
-
-h1, h2, h3 {
-	margin-top: 30px;
 }
 
 a {

@@ -69,6 +69,7 @@ small,
 
 h1, h2, h3 {
   font-family: 'Prompt';
+	text-shadow: 3px 3px 6px rgba(175, 36, 255, .8);
 }
  p, footer, a, li, label, input {
    font-family: 'Manrope';

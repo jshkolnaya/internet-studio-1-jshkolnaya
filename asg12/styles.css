@@ -81,5 +81,6 @@ small,
   background-color: lightblue;
   color: black;
   border: 2px darkblue solid;
+  justify-content: center;
 }
               

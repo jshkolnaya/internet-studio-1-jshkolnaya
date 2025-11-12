@@ -91,9 +91,9 @@ p {
 }
 
 .box {
-  background-color: #c7fab6;
-  color: black;
-  border: 2px #6b8761 solid;
+  background-color: #ffdbec;
+  color: #e07baa;
+  border: 2px #a16480 solid;
   padding: 5px 5px;
   text-align: center;
 }

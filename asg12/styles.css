@@ -69,8 +69,10 @@ small,
 }
 
 html {
-   background-image: linear-gradient(to bottom, #e6cad7, #d494b2, #f590bf, #d4a3ba, #e8c5d6);
+   background-image: linear-gradient(to bottom, #e7fce1, #afd1a5, #79a16d, #b8cfb2, #9cd68d, #b8dbaf, #dafad2);
+  
 }
+/*#e6cad7, #d494b2, #f590bf, #d4a3ba, #e8c5d6*/
 
 h1 {
   text-align: center;

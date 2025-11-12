@@ -73,12 +73,14 @@ h1 {
   letter-spacing: 3px;
 }
 
-h3 {
+h2, h3 {
   letter-spacing: 3px;
+  color: #e07baa;
 }
 
 p {
   line-height: 1.25;
+  color: #ba5b87;
 }
 
 .grid {
@@ -92,7 +94,6 @@ p {
 
 .box {
   background-color: #ffdbec;
-  color: #e07baa;
   border: 2px #a16480 solid;
   padding: 5px 5px;
   text-align: center;

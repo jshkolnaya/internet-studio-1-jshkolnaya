@@ -66,4 +66,18 @@ small,
 .text-small {
   font-size: 0.64em;
 }
+
+
+.grid {
+  width: 1000px;
+  height: 2000px;
+  display: grid;
+  grid-template: repeat(3, 1fr) / repeat(4, 1fr);
+}
+
+.box {
+  background-color: lightblue;
+  color: black;
+  border: 2px darkblue solid;
+}
               

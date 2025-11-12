@@ -68,6 +68,10 @@ small,
   font-size: 0.64em;
 }
 
+html {
+   background-image: linear-gradient(to bottom, #e6cad7, #d494b2, #f590bf, #d4a3ba, #e8c5d6);
+}
+
 h1 {
   text-align: center;
   letter-spacing: 3px;

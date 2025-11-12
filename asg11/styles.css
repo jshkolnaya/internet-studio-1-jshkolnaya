@@ -68,7 +68,7 @@ small,
   font-size: 0.64em;
 }
 
-div {
+.gallery {
   display: flex;
 }
 

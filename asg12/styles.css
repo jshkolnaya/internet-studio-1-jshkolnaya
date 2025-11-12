@@ -69,7 +69,8 @@ small,
 
 
 .grid {
-  width: 1000px;
+  margin: 20px 20px;
+  width: 1200px;
   height: 1500px;
   display: grid;
   grid-template: repeat(4, 1fr) / repeat(3, 1fr);

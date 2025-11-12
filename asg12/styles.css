@@ -68,13 +68,16 @@ small,
   font-size: 0.64em;
 }
 
-h1, h3 {
+h1 {
   text-align: center;
   letter-spacing: 3px;
 }
 
+h3 {
+  letter-spacing: 3px;
+}
+
 p {
-  text-align: center;
   line-height: 1.25;
 }
 

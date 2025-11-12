@@ -70,9 +70,9 @@ small,
 
 .grid {
   width: 1000px;
-  height: 2000px;
+  height: 1500px;
   display: grid;
-  grid-template: repeat(3, 1fr) / repeat(4, 1fr);
+  grid-template: repeat(4, 1fr) / repeat(3, 1fr);
 }
 
 .box {

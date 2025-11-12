@@ -67,4 +67,12 @@ small,
 .text-small {
   font-size: 0.64em;
 }
+
+div {
+  display: flex;
+}
+
+
+
+
               

@@ -73,6 +73,10 @@ h1, h3 {
   letter-spacing: 3px;
 }
 
+p {
+  text-align: center;
+  line-height: 1.25;
+}
 
 .grid {
   margin: 20px 20px;

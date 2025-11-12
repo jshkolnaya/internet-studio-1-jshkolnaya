@@ -28,6 +28,7 @@ body {
 
 p {
   font-size: 1em;
+  font-family: 'Brawler';
 }
 
 h1,
@@ -35,7 +36,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Black Ops One', sans-serif;
   font-weight: true;
   line-height: 1.15;
 }

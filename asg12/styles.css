@@ -78,10 +78,6 @@ p {
   line-height: 1.25;
 }
 
-img {
-  margin: 0 auto;
-}
-
 .grid {
   margin: 20px 20px;
   width: 1200px;
@@ -96,5 +92,6 @@ img {
   color: black;
   border: 2px darkblue solid;
   padding: 5px 5px;
+  text-align: center;
 }
               

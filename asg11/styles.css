@@ -70,7 +70,8 @@ small,
 
 .gallery {
   display: flex;
-  justify-items: center;
+  width: 300px;
+  justify-content: center;
   flex-direction: column;
   gap: 20px;
 }

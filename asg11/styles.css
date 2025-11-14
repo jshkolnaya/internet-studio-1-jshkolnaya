@@ -88,12 +88,14 @@ img {
   background-color: rgba(255,0,0,.5);
   padding: 10px;
   color: rgb(10, 8, 120);
+  width: 220px;
 }
 
 .hulk, .edward {
   background-color: rgba(0,0,255,.5);
   padding: 10px;
   color: rgb(97, 10, 6);
+  width: 220px;
 }
 
 h1, h2 {

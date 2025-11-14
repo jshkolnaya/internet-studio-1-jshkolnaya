@@ -70,7 +70,7 @@ small,
 
 .gallery {
   display: flex;
-  width: 300px;
+  width: 350px;
   justify-content: center;
   flex-direction: column;
   gap: 20px;
@@ -85,5 +85,11 @@ img {
   height: auto;
 }
 
+.miguel, .aragorn, .hercules {
+  background-color: rgba(255,0,0,.7);
+}
 
+.hulk, .edward {
+  background-color: rgba(0,0,255,.7);
+}
               

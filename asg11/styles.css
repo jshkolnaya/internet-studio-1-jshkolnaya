@@ -111,7 +111,7 @@ h1, h2 {
 
 /* setting box shadow and continuing with red and blue color scheme */
 header p {
-  color: rgb(122, 182, 250);
+  color: rgb(167, 185, 252);
   background-color: rgb(250, 36, 27);
   box-shadow: 3px 3px 6px #3412e0;
   max-width: 1140px;

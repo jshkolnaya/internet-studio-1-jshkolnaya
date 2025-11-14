@@ -109,5 +109,6 @@ h1, h2 {
 header p {
   color: rgb(122, 182, 250);
   background-color: rgb(250, 36, 27);
+  box-shadow: 3px 3px 6px #3412e0;
 }
               

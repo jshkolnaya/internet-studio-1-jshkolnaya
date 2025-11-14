@@ -1,4 +1,4 @@
-/*my fonts*/
+/*my fonts that i felt fit the dodgeball theme*/
 /* black-ops-one-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
@@ -17,7 +17,7 @@
   src: url('fonts/brawler-v20-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-/*type scale*/
+/*type scale for my fonts*/
 html {font-size: 16px;}
 
 body {
@@ -68,6 +68,7 @@ small,
   font-size: 0.64em;
 }
 
+/* creating flex box */ 
 .gallery {
   display: flex;
   justify-content: center;
@@ -76,15 +77,18 @@ small,
   max-width: 1140px;
 }
 
+/* created background gradient with red and blue */
 html {
    background-image: radial-gradient(circle at center, #b50909, #415bd1, #d61e1e, #2e41e8);
 }
 
+/* setting image width for consistency */
 img {
   width: 200px;
   height: auto;
 }
 
+/* setting the colors for the boxes so that they alternate, setting width */
 .miguel, .aragorn, .hercules {
   background-color: rgba(255,0,0,.5);
   padding: 10px;
@@ -99,11 +103,13 @@ img {
   width: 220px;
 }
 
+/* color and text shadow for headings */
 h1, h2 {
   color: rgb(10, 7, 89);
   text-shadow: 3px 3px 6px #e8130c;
 }
 
+/* setting box shadow and continuing with red and blue color scheme */
 header p {
   color: rgb(122, 182, 250);
   background-color: rgb(250, 36, 27);

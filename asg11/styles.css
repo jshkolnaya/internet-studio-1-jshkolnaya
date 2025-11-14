@@ -76,8 +76,12 @@ small,
   gap: 20px;
 }
 
+html {
+   background-image: radial-gradient(circle at center, #757575, #9c9c9c, #c2c2c2, #e3e3e3, #fcfcfc);
+}
+
 img {
-  width: 250px;
+  width: 300px;
   height: auto;
 }
 

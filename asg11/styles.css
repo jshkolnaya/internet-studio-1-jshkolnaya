@@ -73,6 +73,7 @@ small,
   justify-content: center;
   flex-direction: row;
   gap: 10px;
+  max-width: 1140px;
 }
 
 html {

@@ -76,6 +76,10 @@ small,
   gap: 20px;
 }
 
+img {
+  width: 250px;
+  height: auto;
+}
 
 
               

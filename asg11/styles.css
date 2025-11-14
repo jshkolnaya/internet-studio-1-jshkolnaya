@@ -86,14 +86,14 @@ img {
 }
 
 .miguel, .aragorn, .hercules {
-  background-color: rgba(255,0,0,.7);
+  background-color: rgba(255,0,0,.5);
   justify-content: center;
   padding: 10px;
   color: rgb(10, 8, 120);
 }
 
 .hulk, .edward {
-  background-color: rgba(0,0,255,.7);
+  background-color: rgba(0,0,255,.5);
   justify-content: center;
   padding: 10px;
   color: rgb(97, 10, 6);

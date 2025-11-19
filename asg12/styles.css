@@ -69,10 +69,7 @@ small,
 }
 
 html {
-  /* background-image: linear-gradient(to bottom, #e7fce1, #afd1a5, #95bf88, #b8cfb2, #9cd68d, #b8dbaf, #dafad2); */
-  /* background-image: radial-gradient(circle at center, #7bb369, #9ccf8c, #b2e0a4, #c7edbb, #dffad7, #e5fcde); */
-  /* background-image: radial-gradient(circle at center, #757575, #9c9c9c, #c2c2c2, #e3e3e3, #fcfcfc); */
-  background-image: url("images/cloudbg.svg");
+  background-image: url("images/shapesbg.svg");
 }
 
 img {

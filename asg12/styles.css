@@ -81,7 +81,7 @@ img {
 
 /*creating space around page content*/
 body {
-  margin: 20px;
+  margin: 10px;
 }
 
 /*adding colors and styles to text*/
@@ -109,6 +109,7 @@ p {
   display: grid;
   grid-template: repeat(4, 1fr) / repeat(3, 1fr);
   gap: 10px 10px;
+  margin-bottom: 10px;
 }
 
 .box {
@@ -116,6 +117,5 @@ p {
   border: 2px #a16480 solid;
   padding: 5px 5px;
   text-align: center;
-  margin-bottom: 5px;
 }
               

@@ -77,6 +77,6 @@ img {
   width: 120px;
   height: 1000px;
   display: grid;
-  grid-template: 1 1fr / repeat(3, 1fr);
+  grid-template: repeat(1, 450px) / repeat(3, 1fr);
   gap: 10px;
 }

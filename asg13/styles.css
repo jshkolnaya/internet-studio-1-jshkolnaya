@@ -74,7 +74,6 @@ html {
   background-image: url("images/sprinkle.svg");
 }
 
-
 /*setting the image size so the company logos arent too big*/
 img {
   width: 150px;
@@ -94,6 +93,14 @@ h1 {
 
 h2 {
   margin-top: 50px;
+}
+
+h1, h2, h3 {
+  color: #ed7b18;
+}
+
+p {
+  color: #c46002;
 }
 
 /*creating the grid and adjusting the boxes*/

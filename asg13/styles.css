@@ -108,9 +108,9 @@ p {
 .grid {
   margin: 10px 20px;
   width: 1000px;
-  height: 800px;
+  height: 750px;
   display: grid;
-  grid-template: repeat(1, 450px) / repeat(3, 1fr);
+  grid-template: repeat(1, 700px) / repeat(3, 1fr);
   gap: 10px;
   align-items: space-between;
 }
@@ -119,4 +119,5 @@ p {
   margin: 15px;
   padding: 5px;
   text-align: center;
+  border: 3px dotted #e67409;
 }

@@ -93,7 +93,7 @@ h2 {
 .grid {
   margin: 10px 20px;
   width: 1000px;
-  height: 1000px;
+  height: 800px;
   display: grid;
   grid-template: repeat(1, 450px) / repeat(3, 1fr);
   gap: 10px;

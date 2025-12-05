@@ -1,4 +1,4 @@
-
+/*my two fonts*/
 /* cherry-cream-soda-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
@@ -17,6 +17,7 @@
   src: url('fonts/chilanka-v23-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+/*my type scale from the online generator*/
 html {font-size: 16px;}
 
 body {
@@ -67,15 +68,18 @@ small,
   font-size: 0.64em;
 }
 
+/*setting the image size so the company logos are small*/
 img {
   width: 50px;
   height: auto;
 }
 
+/*setting body margins*/
 body {
   margin: 20px 15px;
 }
 
+/*creating the grid*/
 .grid {
   margin: 20px;
   width: 1000px;

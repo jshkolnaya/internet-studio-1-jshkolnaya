@@ -80,6 +80,10 @@ body {
   max-width: 1100px;
 }
 
+h2 {
+  margin-top: 20px;
+}
+
 /*creating the grid*/
 .grid {
   margin: 20px;

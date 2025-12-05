@@ -68,9 +68,9 @@ small,
   font-size: 0.64em;
 }
 
-/*setting the image size so the company logos are small*/
+/*setting the image size so the company logos arent too big*/
 img {
-  width: 50px;
+  width: 150px;
   height: auto;
 }
 

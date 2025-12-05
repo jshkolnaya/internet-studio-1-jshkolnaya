@@ -86,7 +86,7 @@ body {
   max-width: 1100px;
 }
 
-/*customizing headings*/
+/*customizing headings and adding color to text*/
 h1 {
   text-align: center;
 }
@@ -104,7 +104,7 @@ p {
   color: #c46002;
 }
 
-/*creating the grid and adjusting the boxes*/
+/*creating the grid and adjusting and customizing the boxes*/
 .grid {
   margin: 10px 20px;
   width: 1000px;

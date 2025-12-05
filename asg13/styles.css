@@ -81,12 +81,12 @@ body {
 }
 
 h2 {
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 /*creating the grid*/
 .grid {
-  margin: 20px;
+  margin: 10px 20px;
   width: 1000px;
   height: 1000px;
   display: grid;

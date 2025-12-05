@@ -108,7 +108,7 @@ p {
 .grid {
   margin: 10px 20px;
   width: 1000px;
-  height: 750px;
+  height: 800px;
   display: grid;
   grid-template: repeat(1, 450px) / repeat(3, 1fr);
   gap: 10px;
@@ -119,5 +119,4 @@ p {
   margin: 15px;
   padding: 5px;
   text-align: center;
-  border: 3px dotted #e67409;
 }
